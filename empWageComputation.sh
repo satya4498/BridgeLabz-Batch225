@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Welcome to employee wage computation program"
+
  #UC1
 echo "Checking whether employee is present or absent"
 function employeeAttendance()
@@ -13,3 +14,4 @@ function employeeAttendance()
      fi
 }
 employeeAttendance
+
